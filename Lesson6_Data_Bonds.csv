@@ -1,0 +1,2 @@
+purchase_id,symbol,number_shares,purchase_price,current_cost,purchase_date,coupon,yield_bond
+1,GT2:GOV,200,100.02,100.05,8/1/2017,1.38,1.35%
